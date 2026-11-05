@@ -42,6 +42,16 @@
 | [Django E-Commerce API](https://github.com/AkbarxojaMuxiddinov/django-ecommerce-api) | Каталог, персональная корзина, оформление заказа и складские остатки |
 | [Marketing Agency Backend](https://github.com/AkbarxojaMuxiddinov/marketing-agency-backend) | Услуги агентства, портфолио, клиенты, социальные ссылки и входящие заявки |
 
+## Мой GitHub в движении
+
+Каждый день GitHub Actions строит анимированную змейку по графику моих вкладов.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkbarxojaMuxiddinov/AkbarxojaMuxiddinov/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkbarxojaMuxiddinov/AkbarxojaMuxiddinov/output/github-contribution-grid-snake.svg">
+  <img alt="Анимированная змейка на графике вкладов GitHub" src="https://raw.githubusercontent.com/AkbarxojaMuxiddinov/AkbarxojaMuxiddinov/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Инструменты
 
 <p>
