@@ -10,7 +10,7 @@
 <h1 align="center">Привет! Я Акбар Мухиддинов 👋</h1>
 
 <p align="center">
-  Python backend-разработчик и Software Engineer из Ташкента.<br>
+  Python backend-разработчик и Software Engineer .<br>
   Создаю API и серверные приложения на Python и Django.
 </p>
 
