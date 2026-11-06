@@ -10,7 +10,7 @@
 
 <h1 align="center">Привет, я Акбар Мухиддинов 👋</h1>
 
-<h3 align="center">Software Engineer · Python Backend · FastAPI · AI-driven development</h3>
+<h3 align="center">Software Engineer · Python Backend · AI-driven development</h3>
 
 <p align="center">
   Проектирую API и backend-системы: от понятных контрактов и надёжной модели данных<br>
