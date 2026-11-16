@@ -1,143 +1,135 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3776AB,100:FFD43B&height=220&section=header&text=Akbarxoja%20Muxiddinov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Backend%20Developer%20%F0%9F%90%8D&descSize=18&descAlignY=56" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3776AB,100:FFD43B&height=200&section=header&text=Akbarxoja%20Muxiddinov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Backend%20Developer%20%E2%80%A2%20AI-Assisted%20Engineering&descSize=17&descAlignY=56" width="100%" alt="Akbarxoja Muxiddinov — Python Backend Developer"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AkbarxojaMuxiddinov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD43B&center=true&vCenter=true&width=620&lines=Salom!+I'm+Akbarxoja+%F0%9F%91%8B;15+y.o.+Python+Backend+Developer+%F0%9F%90%8D;I+build+APIs+that+just+work+%E2%9A%A1;FastAPI+%7C+Django+%7C+PostgreSQL;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFD43B&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%F0%9F%90%8D;I+design+%26+build+REST+APIs+with+FastAPI+and+Django;I+ship+faster+with+Claude%2C+Codex+%26+ChatGPT+%F0%9F%A4%96;Open+to+Junior+%2F+Intern+backend+roles+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkbarxojaMuxiddinov&label=Profile%20views&color=3776AB&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/AkbarxojaMuxiddinov?tab=followers"><img src="https://img.shields.io/github/followers/AkbarxojaMuxiddinov?label=Followers&style=for-the-badge&color=FFD43B&logo=github&logoColor=black&labelColor=0d1117" alt="followers"/></a>
-  <img src="https://img.shields.io/badge/Age-15-3776AB?style=for-the-badge&labelColor=0d1117" alt="age"/>
-  <img src="https://img.shields.io/badge/Tashkent-Uzbekistan%20🇺🇿-1EB53A?style=for-the-badge&labelColor=0d1117" alt="location"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-2EA043?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Role-Junior%20Python%20Backend-3776AB?style=for-the-badge&labelColor=0d1117" alt="Role"/>
+  <img src="https://img.shields.io/badge/Location-Tashkent%20%7C%20Remote-FFD43B?style=for-the-badge&labelColor=0d1117" alt="Location"/>
+</p>
+
+<p align="center">
+  <a href="mailto:akbarxojamuxiddinov8@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-akbarxojamuxiddinov8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 `whoami`
+## 👋 About Me
 
-```python
-class Akbarxoja:
-    def __init__(self):
-        self.name     = "Akbarxoja Muxiddinov"
-        self.age      = 15
-        self.role     = "Software Engineer · Python Backend Developer"
-        self.location = "Tashkent, Uzbekistan 🇺🇿"
-        self.status   = "Python Backend course — completed ✅"
+I'm **Akbarxoja**, a **Python Backend Developer** from Tashkent, Uzbekistan 🇺🇿.
+I completed a **Python Backend Developer** course and have since built **6 backend projects** —
+from HR & CRM systems to FinTech and E-Commerce APIs.
 
-    def stack(self) -> dict:
-        return {
-            "language":   ["Python"],
-            "frameworks": ["FastAPI", "Django", "Django REST Framework", "aiogram"],
-            "data":       ["PostgreSQL", "SQLAlchemy", "SQLite", "Redis"],
-            "async":      ["Celery", "background tasks"],
-            "tools":      ["Git", "Docker", "Linux", "Postman"],
-        }
+I combine solid backend fundamentals with **AI-assisted development**: I use **Claude**, **OpenAI Codex**
+and **ChatGPT** to plan, prototype and refactor faster — and I review and test every line before it ships.
 
-    def superpower(self) -> str:
-        return "AI-driven development — fast ideas, verified by tests 🧪"
+**What I bring to a team:**
 
+- ⚙️ **Clean REST APIs** — clear contracts, validation, authentication (JWT) & role-based access
+- 🗄️ **Reliable data layer** — PostgreSQL data modeling, SQLAlchemy / Django ORM, Redis caching
+- ⏱️ **Background processing** — Celery + Redis for notifications, reports and scheduled jobs
+- 🤖 **AI-powered productivity** — faster delivery without sacrificing code quality
+- 📈 **Fast learner** — started young, learning something new every week
 
-me = Akbarxoja()
-print(me.superpower())
-```
+---
+
+## 🚀 Featured Projects
+
+| | Project | Tech | What it does |
+| :---: | :--- | :--- | :--- |
+| 🤖 | [**Smart HR Telegram Bot**](https://github.com/AkbarxojaMuxiddinov/smart-hr-telegram-bot) | FastAPI · aiogram · PostgreSQL · Redis · Celery | HR bot with geofenced check-ins, roles, tasks, reports & automated notifications |
+| 🏢 | [**B2B CRM & HR Management API**](https://github.com/AkbarxojaMuxiddinov/B2B-CRM-HR-Management-API) | Django REST · JWT · Celery · Redis | Employees, departments, attendance tracking & payroll calculation |
+| 🚑 | [**Hospital Dispatch API**](https://github.com/AkbarxojaMuxiddinov/hospital-dispatch-api) | Python · REST API | Emergency calls with assignment of the nearest available ambulance |
+| 💳 | [**Django FinTech API**](https://github.com/AkbarxojaMuxiddinov/django-fintech-api) | Django · DRF | User wallets, balance top-ups & safe account-to-account transfers |
+| 🛒 | [**Django E-Commerce API**](https://github.com/AkbarxojaMuxiddinov/django-ecommerce-api) | Django · DRF | Product catalog, cart, checkout & stock management |
+| 📣 | [**Marketing Agency Backend**](https://github.com/AkbarxojaMuxiddinov/marketing-agency-backend) | Django | Services, portfolio, clients & incoming lead management |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&theme=dark" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,sqlite,redis&theme=dark" alt="Backend & data"/>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker&theme=dark" alt="data & infra"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark" alt="Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/aiogram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="aiogram"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/REST%20API-0d1117?style=flat-square&logo=swagger&logoColor=85EA2D" alt="REST API"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 AI-Assisted Development
 
-| | Project | What's inside |
-| :---: | :--- | :--- |
-| 🤖 | [**Smart HR Telegram Bot**](https://github.com/AkbarxojaMuxiddinov/smart-hr-telegram-bot) | FastAPI · aiogram · PostgreSQL · geofencing · roles, tasks & reports · Redis + Celery notifications |
-| 🏢 | [**B2B CRM & HR Management API**](https://github.com/AkbarxojaMuxiddinov/B2B-CRM-HR-Management-API) | Employees, departments, attendance · JWT · payroll calculation · Celery + Redis |
-| 🚑 | [**Hospital Dispatch API**](https://github.com/AkbarxojaMuxiddinov/hospital-dispatch-api) | Hospitals, ambulances, emergency calls & nearest-available-ambulance assignment |
-| 💳 | [**Django FinTech API**](https://github.com/AkbarxojaMuxiddinov/django-fintech-api) | User wallets, balance top-ups & account-to-account transfers |
-| 🛒 | [**Django E-Commerce API**](https://github.com/AkbarxojaMuxiddinov/django-ecommerce-api) | Catalog, cart, checkout & stock management |
-| 📣 | [**Marketing Agency Backend**](https://github.com/AkbarxojaMuxiddinov/marketing-agency-backend) | Services, portfolio, clients & incoming leads |
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</p>
+
+I treat AI as a **pair programmer**, not a replacement for engineering judgment:
+
+```text
+ 1. Plan      →  break the task down & design the API contract with Claude / ChatGPT
+ 2. Build     →  generate a first draft with Codex / Claude, then adapt it to the project
+ 3. Review    →  read every line, refactor, check security & edge cases
+ 4. Test      →  verify behaviour manually and with tests before shipping
+ 5. Document  →  clear README, endpoints & setup instructions
+```
 
 ---
 
-## 🗺️ My Journey
-
-| Stage | Milestone | Status |
-| :---: | :--- | :---: |
-| 🐣 | Started learning Python | ✅ |
-| 📚 | Completed **Python Backend Developer** course | ✅ |
-| 🧱 | Built 6 backend projects (FastAPI, Django, DRF) | ✅ |
-| 🐳 | Docker, CI/CD & deployment | 🔄 In progress |
-| 🏗️ | System design & scalable architecture | 🎯 Next |
-| 💼 | First real-world freelance / open-source contributions | 🔥 Goal |
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkbarxojaMuxiddinov&theme=tokyonight" alt="profile details"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkbarxojaMuxiddinov&theme=tokyonight" alt="GitHub stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkbarxojaMuxiddinov&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkbarxojaMuxiddinov&theme=tokyonight" alt="stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkbarxojaMuxiddinov&theme=tokyonight" alt="top languages"/>
+  <img src="https://streak-stats.demolab.com?user=AkbarxojaMuxiddinov&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=3776AB&dates=8b949e" alt="GitHub streak"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkbarxojaMuxiddinov&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=3776AB&dates=8b949e" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkbarxojaMuxiddinov&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=FFD43B&point=3776AB&area=true&area_color=3776AB" alt="activity graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkbarxojaMuxiddinov/AkbarxojaMuxiddinov/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkbarxojaMuxiddinov/AkbarxojaMuxiddinov/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/AkbarxojaMuxiddinov/AkbarxojaMuxiddinov/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AkbarxojaMuxiddinov/AkbarxojaMuxiddinov/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
 ---
 
-## ⚡ Fun Facts
+## 🎯 Currently
 
-- 🎂 15 years old — and already shipping real backend APIs.
-- 🐍 Python is my first love; `import this` is my philosophy.
-- 🤖 I use AI as an engineering tool — and verify everything with tests.
-- 🤝 Open to collaboration on Python / backend projects.
+- 🔭 Looking for a **Junior / Intern Python Backend Developer** position (on-site in Tashkent or remote)
+- 🌱 Learning **Docker, CI/CD & deployment**, then **system design**
+- 🤝 Open to freelance tasks and open-source collaboration
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/AkbarxojaMuxiddinov"><img src="https://img.shields.io/badge/GitHub-AkbarxojaMuxiddinov-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:akbarxojamuxiddinov8@gmail.com"><img src="https://img.shields.io/badge/Gmail-Write%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- Telegram qo'shish uchun quyidagi qatorni oching va USERNAME o'rniga o'zingiznikini yozing: -->
+  <a href="mailto:akbarxojamuxiddinov8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/AkbarxojaMuxiddinov"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- Telegram / LinkedIn qo'shish uchun quyidagi qatorlarni oching va USERNAME o'rniga o'zingiznikini yozing: -->
   <!-- <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> -->
+  <!-- <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+<p align="center"><i>"I build reliable backend systems and use AI as an engineering tool — with review, responsibility and attention to detail."</i></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:3776AB,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:3776AB,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
 </p>
