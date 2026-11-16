@@ -87,29 +87,6 @@ I treat AI as a **pair programmer**, not a replacement for engineering judgment:
  5. Document  →  clear README, endpoints & setup instructions
 ```
 
-### 🏢 My AI Dev Team (yes, they live in a pixel office)
-
-I built my own **multi-agent dev team** on top of **Claude Code** — five specialised subagents
-plus an orchestration skill (`/full-stack-build`) that takes an idea all the way to a running,
-dockerized, mobile-first project. Each agent shows up as a little pixel character walking around a virtual office
-([Pixel Agents](https://github.com/pablodelucca/pixel-agents)), so I can literally watch my team work. 👾
-
-| | Agent | Role |
-| :---: | :--- | :--- |
-| 🧠 | **backend-architect** | Designs the API contract first, then builds FastAPI / Django + PostgreSQL, Redis, Celery, JWT — with pytest tests |
-| 🎨 | **frontend-designer** | Builds a responsive, accessible UI wired exactly to that API contract |
-| 🐳 | **devops-docker** | Dockerfiles, `docker-compose` (app + Postgres + Redis), health checks — verifies it really runs |
-| 🔍 | **code-reviewer** | Quality gate — security (OWASP), architecture, contract drift, ruff + ≥ 80% test coverage → `PASS` / `CHANGES REQUESTED` |
-| 🧪 | **qa-tester** | Tests the running app like a real user — API edge cases, Playwright e2e on desktop & mobile, bug reports with repro steps |
-
-```text
- 💡 idea ─► 🧠 API contract + 🎨 design system ─► 🔍 review
-        ─► 🧠 backend ┐
-           🎨 frontend ┴─► 🔍 review (until PASS) ─► 🐳 Docker + CI ─► 🧪 QA ─► ✅ ready
-```
-
-> I'm the **team lead**: agents write the drafts, I review every diff, run the tests and make the final call.
-
 ---
 
 ## 📊 GitHub Activity
