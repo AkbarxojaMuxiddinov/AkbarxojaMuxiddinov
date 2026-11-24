@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3776AB,100:FFD43B&height=200&section=header&text=Akbarxoja%20Muxiddinov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Backend%20Developer%20%E2%80%A2%20AI-Assisted%20Engineering&descSize=17&descAlignY=56" width="100%" alt="Akbarxoja Muxiddinov — Python Backend Developer"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFD43B&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%F0%9F%90%8D;I+design+%26+build+REST+APIs+with+FastAPI+and+Django;I+ship+faster+with+Claude%2C+Codex+%26+ChatGPT+%F0%9F%A4%96;Open+to+Junior+%2F+Intern+backend+roles+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
@@ -93,11 +89,6 @@ I treat AI as a **pair programmer**, not a replacement for engineering judgment:
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkbarxojaMuxiddinov&theme=tokyonight" alt="GitHub stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkbarxojaMuxiddinov&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkbarxojaMuxiddinov&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=3776AB&dates=8b949e" alt="GitHub streak"/>
 </p>
 
 <p align="center">
@@ -123,9 +114,7 @@ I treat AI as a **pair programmer**, not a replacement for engineering judgment:
 <p align="center">
   <a href="mailto:akbarxojamuxiddinov8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/AkbarxojaMuxiddinov"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Telegram / LinkedIn qo'shish uchun quyidagi qatorlarni oching va USERNAME o'rniga o'zingiznikini yozing: -->
-  <!-- <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> -->
-  <!-- <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+ 
 </p>
 
 <p align="center"><i>"I build reliable backend systems and use AI as an engineering tool — with review, responsibility and attention to detail."</i></p>
